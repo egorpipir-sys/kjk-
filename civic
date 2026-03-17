@@ -1,5 +1,5 @@
-git config --global user.name "My Name"
-git config --global user.email myEmail@example.com
+git config --global user.name "slov"
+git config --global user.email cifilic23@example.com
 1
 2
 git config --global user.name "My Name"
@@ -22,7 +22,6 @@ $ git init
 $ mkdir Desktop/git_exercise/
 $ cd Desktop/git_exercise/
 $ git init
-Командная строка должна содержать, например, следующее:
 Initialized empty Git repository in
 /home/user/Desktop/git_exercise/.git/
 1
